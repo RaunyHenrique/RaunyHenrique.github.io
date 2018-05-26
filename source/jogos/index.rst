@@ -1,15 +1,10 @@
-Terefas
-=========
+Adicionando jogos
+^^^^^^^^^^^^^^^^^^
 
-.. toctree::
-   :maxdepth: 3
-   :caption: Documentação
 
-Tarefa 1:
-^^^^^^^^^
+Editando jogos
+^^^^^^^^^^^^^^^
 
-asdasdasdahsvbdjhavbsdjhakdjhakhjdakjhds
-    print 'hello'
-    >> hello
 
-asdashdgahdghhjg
+Deletando jogos
+^^^^^^^^^^^^^^^^
